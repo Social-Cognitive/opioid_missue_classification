@@ -1,0 +1,456 @@
+High level category(icd-9),Age Category,gender,admission_type,discharge_location,insurance,marital_status,ethnicity,High level category(diagnosis),los_category,Mental_status,Intentional
+Poisoning and Injury,Middle,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicaid,WIDOWED,WHITE,Poisoning and Injury,Short,No,No
+Poisoning and Injury,Middle,M,EMERGENCY,DISC-TRAN CANCER/CHLDRN H,Medicare,SEPARATED,BLACK/AFRICAN AMERICAN,Poisoning and Injury,Short,Yes,Yes
+Poisoning and Injury,Young,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Private,SINGLE,WHITE,Poisoning and Injury,Midium,No,No
+Poisoning and Injury,Middle,M,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Private,MARRIED,WHITE,Diseases of nervous system and Mental Disorder,Large,Yes,Yes
+Diseases of genitourinary system,Young,F,EMERGENCY,HOME,Private,MARRIED,WHITE,Diseases of blood and circulatory system,Large,No,No
+"Skin, Subcutaneous tissue and Musculoskeletal diseases ",Middle,F,EMERGENCY,HOME HEALTH CARE,Medicaid,MARRIED,BLACK/AFRICAN AMERICAN,Diseases of nervous system and Mental Disorder,Large,Yes,Yes
+Diseases of nervous system and Mental Disorder,Middle,M,EMERGENCY,SHORT TERM HOSPITAL,Medicaid,MARRIED,BLACK/AFRICAN AMERICAN,"Endocrine, Metabolic, Immunity Disorder and Sepsis",Large,No,Yes
+Poisoning and Injury,Young,M,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicare,SINGLE,PATIENT DECLINED TO ANSWER,Poisoning and Injury,Midium,Yes,Yes
+Poisoning and Injury,Young,M,EMERGENCY,HOME,Medicare,SINGLE,WHITE,Poisoning and Injury,Midium,Yes,Yes
+Poisoning and Injury,Young,M,EMERGENCY,HOME,Medicaid,SINGLE,WHITE,Poisoning and Injury,Midium,No,Yes
+Poisoning and Injury,Middle,F,EMERGENCY,REHAB/DISTINCT PART HOSP,Medicare,SINGLE,WHITE,Poisoning and Injury,Midium,Yes,Yes
+Diseases of nervous system and Mental Disorder,Senior,F,EMERGENCY,SNF,Medicaid,DIVORCED,WHITE,Poisoning and Injury,Short,Yes,Yes
+Poisoning and Injury,Middle,M,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicare,NULL,WHITE,Poisoning and Injury,Midium,No,No
+Poisoning and Injury,Young,F,URGENT,DISC-TRAN CANCER/CHLDRN H,Medicaid,NULL,UNKNOWN/NOT SPECIFIED,Poisoning and Injury,Large,Yes,Yes
+Diseases of digestive system,Middle,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicaid,MARRIED,WHITE,Diseases of digestive system,Midium,Yes,No
+Poisoning and Injury,Middle,F,EMERGENCY,DISC-TRAN CANCER/CHLDRN H,Private,SINGLE,WHITE,Poisoning and Injury,Midium,Yes,Yes
+Diseases of respiratory system,Middle,F,EMERGENCY,HOME HEALTH CARE,Medicaid,SINGLE,WHITE,Diseases of respiratory system,Short,Yes,Yes
+Poisoning and Injury,Young,F,EMERGENCY,DEAD/EXPIRED,Medicaid,SINGLE,WHITE,Poisoning and Injury,Large,No,No
+Diseases of respiratory system,Middle,M,EMERGENCY,REHAB/DISTINCT PART HOSP,Medicare,MARRIED,WHITE,Poisoning and Injury,Large,Yes,Yes
+Diseases of nervous system and Mental Disorder,Senior,F,EMERGENCY,SNF,Medicare,DIVORCED,WHITE,"Endocrine, Metabolic, Immunity Disorder and Sepsis",Large,Yes,Yes
+Diseases of digestive system,Middle,M,URGENT,DEAD/EXPIRED,Medicaid,SEPARATED,UNKNOWN/NOT SPECIFIED,Diseases of digestive system,Midium,Yes,Yes
+Diseases of respiratory system,Middle,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicaid,SINGLE,UNKNOWN/NOT SPECIFIED,Poisoning and Injury,Large,Yes,Yes
+"Endocrine, Metabolic, Immunity Disorder and Sepsis",Middle,M,EMERGENCY,HOME,Medicare,SINGLE,WHITE,Diseases of blood and circulatory system,Midium,Yes,Yes
+Poisoning and Injury,Young,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicaid,SINGLE,WHITE,Poisoning and Injury,Midium,Yes,Yes
+Diseases of blood and circulatory system,Middle,F,EMERGENCY,HOME,Private,MARRIED,WHITE,"Endocrine, Metabolic, Immunity Disorder and Sepsis",Large,Yes,Yes
+Poisoning and Injury,Senior,F,EMERGENCY,SNF,Private,DIVORCED,WHITE,Diseases of genitourinary system,Midium,No,No
+Poisoning and Injury,Young,F,EMERGENCY,DISC-TRAN CANCER/CHLDRN H,Private,SINGLE,WHITE,,Short,No,No
+Diseases of blood and circulatory system,Senior,F,EMERGENCY,HOME,Medicare,MARRIED,WHITE,Diseases of blood and circulatory system,Midium,Yes,Yes
+Diseases of genitourinary system,,F,EMERGENCY,SNF,Medicare,DIVORCED,WHITE,Diseases of blood and circulatory system,Large,Yes,No
+Diseases of respiratory system,Middle,M,EMERGENCY,HOME,Medicaid,NULL,UNKNOWN/NOT SPECIFIED,Diseases of nervous system and Mental Disorder,Large,Yes,Yes
+Poisoning and Injury,Middle,F,EMERGENCY,HOME,Medicare,MARRIED,BLACK/AFRICAN AMERICAN,Diseases of blood and circulatory system,Large,Yes,Yes
+Poisoning and Injury,Young,F,EMERGENCY,DISC-TRAN CANCER/CHLDRN H,Government,SINGLE,UNKNOWN/NOT SPECIFIED,Poisoning and Injury,Short,Yes,Yes
+Diseases of digestive system,Middle,M,EMERGENCY,HOME HEALTH CARE,Private,MARRIED,WHITE,Diseases of digestive system,Short,No,No
+Diseases of blood and circulatory system,Senior,M,EMERGENCY,SNF,Medicare,SINGLE,OTHER,Poisoning and Injury,Short,Yes,Yes
+Diseases of nervous system and Mental Disorder,Young,F,EMERGENCY,REHAB/DISTINCT PART HOSP,Private,MARRIED,WHITE,Poisoning and Injury,Large,Yes,No
+Diseases of digestive system,Middle,F,EMERGENCY,HOSPICE-HOME,Medicare,MARRIED,WHITE,Diseases of nervous system and Mental Disorder,Short,Yes,Yes
+Diseases of digestive system,Middle,F,EMERGENCY,HOME HEALTH CARE,Medicaid,SINGLE,WHITE,Diseases of digestive system,Short,No,No
+Poisoning and Injury,Middle,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicaid,SINGLE,WHITE,Poisoning and Injury,Midium,Yes,Yes
+Diseases of blood and circulatory system,Middle,M,EMERGENCY,SHORT TERM HOSPITAL,Private,SINGLE,WHITE,Diseases of blood and circulatory system,Large,Yes,Yes
+"Skin, Subcutaneous tissue and Musculoskeletal diseases ",Middle,M,EMERGENCY,HOME,Government,SINGLE,BLACK/AFRICAN AMERICAN,Diseases of nervous system and Mental Disorder,Midium,Yes,Yes
+"Skin, Subcutaneous tissue and Musculoskeletal diseases ",Middle,F,EMERGENCY,HOME HEALTH CARE,Medicaid,SINGLE,WHITE,"Endocrine, Metabolic, Immunity Disorder and Sepsis",Large,Yes,Yes
+Poisoning and Injury,Middle,F,EMERGENCY,HOME,Medicaid,SINGLE,BLACK/AFRICAN AMERICAN,Diseases of nervous system and Mental Disorder,Midium,Yes,Yes
+Diseases of digestive system,Senior,F,EMERGENCY,DISC-TRAN CANCER/CHLDRN H,Medicare,MARRIED,WHITE,Poisoning and Injury,Large,Yes,Yes
+Poisoning and Injury,Young,M,EMERGENCY,HOME,Private,NULL,WHITE,Poisoning and Injury,Large,No,Yes
+Poisoning and Injury,Young,F,EMERGENCY,HOME,Medicaid,NULL,WHITE,Diseases of digestive system,Large,Yes,Yes
+Diseases of respiratory system,Middle,M,EMERGENCY,REHAB/DISTINCT PART HOSP,Private,SINGLE,WHITE,Poisoning and Injury,Large,No,No
+Diseases of nervous system and Mental Disorder,Middle,M,EMERGENCY,DISC-TRAN CANCER/CHLDRN H,Government,SINGLE,WHITE,Poisoning and Injury,Midium,Yes,Yes
+Poisoning and Injury,Young,M,EMERGENCY,HOME,Medicare,SINGLE,WHITE,Diseases of nervous system and Mental Disorder,Short,Yes,Yes
+Diseases of nervous system and Mental Disorder,Middle,M,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicare,SINGLE,WHITE,Poisoning and Injury,Large,Yes,Yes
+Diseases of blood and circulatory system,Middle,F,EMERGENCY,LONG TERM CARE HOSPITAL,Medicaid,SINGLE,HISPANIC OR LATINO,"Endocrine, Metabolic, Immunity Disorder and Sepsis",Large,No,No
+Poisoning and Injury,Young,F,EMERGENCY,HOME,Medicaid,NULL,WHITE,Poisoning and Injury,Large,Yes,Yes
+Diseases of blood and circulatory system,Middle,F,EMERGENCY,HOME HEALTH CARE,Medicare,DIVORCED,WHITE,Diseases of respiratory system,Large,Yes,Yes
+Diseases of blood and circulatory system,Senior,M,EMERGENCY,REHAB/DISTINCT PART HOSP,Medicare,NULL,WHITE,Diseases of respiratory system,Large,No,No
+Poisoning and Injury,Middle,M,EMERGENCY,DISC-TRAN CANCER/CHLDRN H,Medicaid,MARRIED,WHITE,Poisoning and Injury,Midium,Yes,Yes
+Poisoning and Injury,Senior,F,EMERGENCY,HOME HEALTH CARE,Medicare,WIDOWED,WHITE,Diseases of nervous system and Mental Disorder,Large,Yes,Yes
+"Skin, Subcutaneous tissue and Musculoskeletal diseases ",Young,F,EMERGENCY,HOME,Private,SINGLE,UNKNOWN/NOT SPECIFIED,Poisoning and Injury,Large,No,No
+Diseases of genitourinary system,Young,F,EMERGENCY,HOME HEALTH CARE,Private,MARRIED,BLACK/AFRICAN AMERICAN,Diseases of blood and circulatory system,Short,No,No
+Diseases of blood and circulatory system,Middle,F,EMERGENCY,REHAB/DISTINCT PART HOSP,Medicaid,SINGLE,WHITE,Diseases of nervous system and Mental Disorder,Large,Yes,Yes
+Diseases of blood and circulatory system,Middle,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Private,SINGLE,WHITE,"Skin, Subcutaneous tissue and Musculoskeletal diseases ",Large,Yes,Yes
+Diseases of blood and circulatory system,Senior,M,EMERGENCY,HOME HEALTH CARE,Medicare,SINGLE,WHITE,Poisoning and Injury,Midium,No,No
+Diseases of digestive system,Middle,F,EMERGENCY,HOME,Medicaid,WIDOWED,WHITE,Diseases of nervous system and Mental Disorder,Large,Yes,Yes
+Poisoning and Injury,Middle,F,EMERGENCY,DISC-TRAN CANCER/CHLDRN H,Medicaid,WIDOWED,WHITE,Poisoning and Injury,,Yes,Yes
+Diseases of respiratory system,Senior,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicare,DIVORCED,WHITE,Poisoning and Injury,Midium,Yes,Yes
+Diseases of nervous system and Mental Disorder,Young,M,EMERGENCY,DISC-TRAN CANCER/CHLDRN H,Medicaid,SINGLE,UNKNOWN/NOT SPECIFIED,Poisoning and Injury,,Yes,Yes
+Diseases of blood and circulatory system,Senior,F,EMERGENCY,HOME,Medicare,WIDOWED,WHITE,Diseases of digestive system,Large,No,No
+Diseases of blood and circulatory system,Young,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicaid,SINGLE,WHITE,Diseases of respiratory system,,Yes,Yes
+Diseases of respiratory system,Young,F,EMERGENCY,DEAD/EXPIRED,Medicaid,SINGLE,WHITE,Poisoning and Injury,Large,No,No
+Diseases of genitourinary system,Senior,F,EMERGENCY,HOME HEALTH CARE,Medicare,DIVORCED,WHITE,Diseases of nervous system and Mental Disorder,,Yes,Yes
+Diseases of respiratory system,Young,M,EMERGENCY,HOME,Government,NULL,WHITE,Poisoning and Injury,,Yes,Yes
+Diseases of blood and circulatory system,Senior,M,EMERGENCY,REHAB/DISTINCT PART HOSP,Medicare,MARRIED,WHITE,Diseases of blood and circulatory system,Midium,No,No
+"Endocrine, Metabolic, Immunity Disorder and Sepsis",Middle,F,EMERGENCY,HOME,Private,MARRIED,WHITE,Diseases of blood and circulatory system,Midium,Yes,Yes
+Diseases of digestive system,Middle,F,EMERGENCY,HOME,Medicare,SINGLE,WHITE,Diseases of blood and circulatory system,,Yes,Yes
+Diseases of blood and circulatory system,Senior,M,EMERGENCY,HOME HEALTH CARE,Private,SINGLE,WHITE,Diseases of digestive system,Short,No,No
+Poisoning and Injury,Young,M,EMERGENCY,DISC-TRAN CANCER/CHLDRN H,Private,NULL,WHITE,Poisoning and Injury,Midium,No,No
+Diseases of genitourinary system,Middle,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicare,MARRIED,WHITE,Diseases of blood and circulatory system,,Yes,Yes
+Poisoning and Injury,Young,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Private,SINGLE,UNKNOWN/NOT SPECIFIED,Poisoning and Injury,Midium,Yes,Yes
+Poisoning and Injury,Middle,F,EMERGENCY,HOME,Medicaid,DIVORCED,WHITE,Diseases of nervous system and Mental Disorder,Short,Yes,Yes
+Poisoning and Injury,Middle,F,EMERGENCY,DISC-TRAN CANCER/CHLDRN H,Medicare,MARRIED,WHITE,"Skin, Subcutaneous tissue and Musculoskeletal diseases ",Large,Yes,Yes
+Diseases of blood and circulatory system,Middle,M,ELECTIVE,HOME,Medicare,SINGLE,WHITE,Diseases of digestive system,Large,Yes,Yes
+Poisoning and Injury,Middle,M,EMERGENCY,SNF,Medicare,SINGLE,WHITE,Diseases of respiratory system,Short,Yes,Yes
+"Skin, Subcutaneous tissue and Musculoskeletal diseases ",Middle,M,EMERGENCY,REHAB/DISTINCT PART HOSP,Private,DIVORCED,WHITE,"Skin, Subcutaneous tissue and Musculoskeletal diseases ",,Yes,Yes
+Diseases of blood and circulatory system,Senior,F,EMERGENCY,DEAD/EXPIRED,Medicare,SINGLE,WHITE,"Endocrine, Metabolic, Immunity Disorder and Sepsis",,No,No
+Diseases of blood and circulatory system,Senior,F,EMERGENCY,HOME HEALTH CARE,Medicaid,SINGLE,WHITE,Diseases of blood and circulatory system,Midium,No,No
+Diseases of genitourinary system,Middle,F,EMERGENCY,SNF,Private,WIDOWED,WHITE,Diseases of blood and circulatory system,Large,Yes,Yes
+"Endocrine, Metabolic, Immunity Disorder and Sepsis",,M,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicare,NULL,WHITE,Diseases of respiratory system,Short,Yes,Yes
+Diseases of blood and circulatory system,Middle,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicaid,SINGLE,UNKNOWN/NOT SPECIFIED,Poisoning and Injury,Large,No,No
+Diseases of blood and circulatory system,Young,M,EMERGENCY,DISC-TRAN CANCER/CHLDRN H,Government,MARRIED,HISPANIC OR LATINO,Diseases of respiratory system,,Yes,Yes
+Diseases of blood and circulatory system,Middle,M,EMERGENCY,SNF,Private,SINGLE,BLACK/AFRICAN AMERICAN,Diseases of digestive system,Short,No,Yes
+Diseases of digestive system,Middle,M,EMERGENCY,HOME,Medicare,SINGLE,WHITE,"Endocrine, Metabolic, Immunity Disorder and Sepsis",Midium,Yes,Yes
+Diseases of nervous system and Mental Disorder,Young,F,EMERGENCY,DISC-TRAN CANCER/CHLDRN H,Medicare,SINGLE,WHITE,Poisoning and Injury,,No,No
+Diseases of nervous system and Mental Disorder,Middle,M,EMERGENCY,HOME,Medicare,DIVORCED,WHITE,Diseases of digestive system,,No,No
+Diseases of blood and circulatory system,Middle,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicaid,DIVORCED,WHITE,Poisoning and Injury,Large,Yes,Yes
+Diseases of blood and circulatory system,Middle,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicare,NULL,WHITE,Poisoning and Injury,,Yes,Yes
+Diseases of genitourinary system,Middle,M,EMERGENCY,DEAD/EXPIRED,Medicare,SINGLE,WHITE,Diseases of digestive system,Large,Yes,Yes
+"Endocrine, Metabolic, Immunity Disorder and Sepsis",Middle,F,EMERGENCY,REHAB/DISTINCT PART HOSP,Government,DIVORCED,WHITE,Diseases of digestive system,Large,No,No
+Diseases of digestive system,Middle,F,EMERGENCY,DEAD/EXPIRED,Private,NULL,UNKNOWN/NOT SPECIFIED,Diseases of digestive system,Large,Yes,Yes
+Diseases of genitourinary system,Middle,F,EMERGENCY,HOME,Private,SINGLE,WHITE,Poisoning and Injury,Midium,No,No
+Poisoning and Injury,Young,M,EMERGENCY,HOME,Medicare,SINGLE,WHITE,Poisoning and Injury,Short,No,Yes
+Diseases of nervous system and Mental Disorder,Middle,F,EMERGENCY,REHAB/DISTINCT PART HOSP,Private,MARRIED,WHITE,Poisoning and Injury,Large,No,No
+Diseases of respiratory system,Young,F,EMERGENCY,HOME,Medicaid,DIVORCED,WHITE,Diseases of digestive system,,Yes,Yes
+Diseases of respiratory system,Middle,F,EMERGENCY,REHAB/DISTINCT PART HOSP,Medicare,SINGLE,UNKNOWN/NOT SPECIFIED,Diseases of respiratory system,,No,Yes
+Diseases of nervous system and Mental Disorder,Middle,M,ELECTIVE,HOME,Medicaid,SEPARATED,BLACK/AFRICAN AMERICAN,Diseases of nervous system and Mental Disorder,Large,No,Yes
+Diseases of digestive system,Middle,F,EMERGENCY,REHAB/DISTINCT PART HOSP,Medicare,WIDOWED,WHITE,Diseases of blood and circulatory system,Large,No,No
+Poisoning and Injury,Young,M,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicaid,SINGLE,WHITE,Poisoning and Injury,,Yes,Yes
+Diseases of respiratory system,Young,M,EMERGENCY,HOME,Medicare,SINGLE,ASIAN,"Endocrine, Metabolic, Immunity Disorder and Sepsis",,No,No
+Diseases of digestive system,Middle,M,EMERGENCY,HOME,Government,MARRIED,UNKNOWN/NOT SPECIFIED,Poisoning and Injury,Large,No,No
+Diseases of blood and circulatory system,Middle,F,ELECTIVE,HOME,Medicaid,SINGLE,WHITE,Diseases of genitourinary system,,No,Yes
+Poisoning and Injury,Young,M,EMERGENCY,HOME,Medicaid,SINGLE,WHITE,Poisoning and Injury,,No,No
+Diseases of nervous system and Mental Disorder,Young,F,EMERGENCY,HOME,Self Pay,SINGLE,WHITE,Poisoning and Injury,,No,Yes
+"Skin, Subcutaneous tissue and Musculoskeletal diseases ",Young,M,EMERGENCY,HOME,Government,NULL,WHITE,Poisoning and Injury,Large,No,No
+Diseases of blood and circulatory system,Young,F,EMERGENCY,HOME,Private,MARRIED,WHITE,"Endocrine, Metabolic, Immunity Disorder and Sepsis",Short,No,No
+Diseases of nervous system and Mental Disorder,Middle,F,EMERGENCY,HOME,Medicaid,SINGLE,WHITE,Diseases of respiratory system,,No,No
+Poisoning and Injury,Senior,M,EMERGENCY,DEAD/EXPIRED,Medicare,MARRIED,WHITE,,Short,No,No
+Diseases of digestive system,Middle,M,EMERGENCY,DEAD/EXPIRED,Medicaid,MARRIED,WHITE,Diseases of blood and circulatory system,,Yes,Yes
+Diseases of nervous system and Mental Disorder,Middle,F,EMERGENCY,DISC-TRAN CANCER/CHLDRN H,Medicare,SINGLE,WHITE,Poisoning and Injury,,Yes,Yes
+Poisoning and Injury,Young,M,EMERGENCY,HOME,Self Pay,NULL,WHITE,Diseases of nervous system and Mental Disorder,,Yes,Yes
+Diseases of digestive system,Middle,F,EMERGENCY,REHAB/DISTINCT PART HOSP,Medicare,DIVORCED,UNKNOWN/NOT SPECIFIED,Diseases of respiratory system,,Yes,Yes
+Poisoning and Injury,Young,M,EMERGENCY,DISC-TRAN CANCER/CHLDRN H,Private,SINGLE,WHITE,Poisoning and Injury,Large,No,No
+Diseases of blood and circulatory system,Middle,F,EMERGENCY,HOME HEALTH CARE,Medicaid,MARRIED,WHITE,Diseases of respiratory system,Large,No,No
+Diseases of respiratory system,Senior,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicare,MARRIED,ASIAN,Poisoning and Injury,Short,Yes,Yes
+"Skin, Subcutaneous tissue and Musculoskeletal diseases ",Young,M,EMERGENCY,SHORT TERM HOSPITAL,Medicare,SINGLE,BLACK/AFRICAN AMERICAN,Diseases of blood and circulatory system,Large,Yes,Yes
+Diseases of digestive system,Young,M,EMERGENCY,DEAD/EXPIRED,Self Pay,SINGLE,WHITE,Poisoning and Injury,,No,No
+Diseases of nervous system and Mental Disorder,Middle,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicaid,MARRIED,UNKNOWN/NOT SPECIFIED,Poisoning and Injury,,No,No
+Diseases of nervous system and Mental Disorder,Young,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Private,NULL,WHITE,Poisoning and Injury,Midium,Yes,Yes
+Diseases of respiratory system,Young,M,EMERGENCY,DEAD/EXPIRED,Medicare,SINGLE,UNKNOWN/NOT SPECIFIED,"Endocrine, Metabolic, Immunity Disorder and Sepsis",Midium,No,No
+Diseases of blood and circulatory system,Young,M,EMERGENCY,DEAD/EXPIRED,Private,MARRIED,WHITE,Diseases of blood and circulatory system,,Yes,Yes
+Poisoning and Injury,Young,M,EMERGENCY,HOME,Government,SINGLE,WHITE,Poisoning and Injury,Large,No,No
+Diseases of respiratory system,Middle,F,EMERGENCY,HOME,Medicare,NULL,WHITE,Poisoning and Injury,,No,No
+Poisoning and Injury,Young,F,EMERGENCY,DISC-TRAN CANCER/CHLDRN H,Private,NULL,WHITE,Poisoning and Injury,Midium,Yes,Yes
+Poisoning and Injury,Young,F,EMERGENCY,HOME HEALTH CARE,Private,SINGLE,WHITE,Diseases of nervous system and Mental Disorder,Large,No,No
+Diseases of nervous system and Mental Disorder,Young,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicaid,SINGLE,WHITE,Poisoning and Injury,,No,No
+"Endocrine, Metabolic, Immunity Disorder and Sepsis",Senior,F,EMERGENCY,HOME HEALTH CARE,Medicare,MARRIED,WHITE,"Skin, Subcutaneous tissue and Musculoskeletal diseases ",,Yes,Yes
+Diseases of digestive system,Middle,M,EMERGENCY,HOME HEALTH CARE,Medicare,MARRIED,UNKNOWN/NOT SPECIFIED,"Skin, Subcutaneous tissue and Musculoskeletal diseases ",,Yes,Yes
+Diseases of blood and circulatory system,Young,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicare,DIVORCED,WHITE,Poisoning and Injury,Midium,Yes,Yes
+Poisoning and Injury,Young,M,EMERGENCY,HOME,Self Pay,SINGLE,WHITE,Diseases of respiratory system,Large,No,Yes
+Poisoning and Injury,Middle,F,EMERGENCY,DISC-TRAN CANCER/CHLDRN H,Medicare,NULL,WHITE,Diseases of blood and circulatory system,,No,No
+"Endocrine, Metabolic, Immunity Disorder and Sepsis",Middle,M,EMERGENCY,DISC-TRAN TO FEDERAL HC,Self Pay,SINGLE,HISPANIC OR LATINO,Diseases of respiratory system,,Yes,Yes
+Poisoning and Injury,Young,M,EMERGENCY,HOME,Government,NULL,ASIAN,Diseases of respiratory system,,No,No
+Diseases of blood and circulatory system,Middle,F,ELECTIVE,HOME HEALTH CARE,Private,MARRIED,WHITE,Diseases of respiratory system,Large,No,Yes
+Poisoning and Injury,Young,M,EMERGENCY,HOME,Government,SINGLE,WHITE,Diseases of nervous system and Mental Disorder,Large,Yes,Yes
+Diseases of genitourinary system,Senior,M,EMERGENCY,SNF,Medicare,NULL,WHITE,Diseases of respiratory system,Large,No,No
+Diseases of blood and circulatory system,Middle,F,EMERGENCY,HOME HEALTH CARE,Private,DIVORCED,WHITE,Diseases of nervous system and Mental Disorder,Midium,No,No
+"Skin, Subcutaneous tissue and Musculoskeletal diseases ",Young,M,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicaid,NULL,HISPANIC OR LATINO,"Endocrine, Metabolic, Immunity Disorder and Sepsis",,No,No
+Poisoning and Injury,Young,F,EMERGENCY,DISC-TRAN CANCER/CHLDRN H,Medicaid,DIVORCED,UNKNOWN/NOT SPECIFIED,Diseases of digestive system,,No,No
+Diseases of blood and circulatory system,Middle,F,EMERGENCY,HOME,Private,DIVORCED,BLACK/AFRICAN AMERICAN,Diseases of digestive system,Short,No,No
+Diseases of nervous system and Mental Disorder,Middle,F,EMERGENCY,HOME,Self Pay,SINGLE,WHITE,Poisoning and Injury,,No,No
+Poisoning and Injury,Middle,F,EMERGENCY,REHAB/DISTINCT PART HOSP,Medicare,DIVORCED,WHITE,Diseases of digestive system,Large,No,No
+Diseases of respiratory system,Middle,F,ELECTIVE,HOME,Private,SEPARATED,WHITE,Diseases of genitourinary system,Large,Yes,Yes
+Poisoning and Injury,Middle,F,EMERGENCY,HOME,Private,MARRIED,WHITE,Diseases of digestive system,Large,,
+"Skin, Subcutaneous tissue and Musculoskeletal diseases ",Middle,M,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicare,SINGLE,WHITE,Poisoning and Injury,Large,No,No
+Diseases of blood and circulatory system,Middle,M,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicare,SINGLE,BLACK/AFRICAN AMERICAN,Diseases of genitourinary system,Large,No,No
+Diseases of blood and circulatory system,Middle,M,EMERGENCY,HOME,Government,DIVORCED,WHITE,Poisoning and Injury,Midium,No,No
+Diseases of digestive system,Middle,M,EMERGENCY,HOME,Medicare,SINGLE,WHITE,Diseases of respiratory system,,Yes,Yes
+Diseases of blood and circulatory system,Young,F,EMERGENCY,HOME HEALTH CARE,Private,SINGLE,WHITE,Poisoning and Injury,Short,No,No
+Diseases of nervous system and Mental Disorder,Young,M,EMERGENCY,HOME HEALTH CARE,Medicaid,SINGLE,WHITE,Poisoning and Injury,Short,Yes,Yes
+Poisoning and Injury,Middle,M,EMERGENCY,HOME,Medicaid,SINGLE,WHITE,Poisoning and Injury,,Yes,Yes
+"Endocrine, Metabolic, Immunity Disorder and Sepsis",Middle,F,EMERGENCY,HOME,Private,MARRIED,WHITE,Diseases of blood and circulatory system,,Yes,Yes
+Diseases of nervous system and Mental Disorder,Young,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Government,SINGLE,OTHER,Poisoning and Injury,Midium,No,No
+Diseases of genitourinary system,Senior,F,EMERGENCY,HOME HEALTH CARE,Medicare,DIVORCED,BLACK/AFRICAN AMERICAN,Diseases of blood and circulatory system,Large,No,No
+Diseases of nervous system and Mental Disorder,Middle,F,EMERGENCY,DEAD/EXPIRED,Private,NULL,WHITE,Diseases of blood and circulatory system,Midium,No,No
+Diseases of blood and circulatory system,Senior,M,ELECTIVE,REHAB/DISTINCT PART HOSP,Medicare,DIVORCED,WHITE,Diseases of genitourinary system,Short,Yes,Yes
+Poisoning and Injury,Middle,M,EMERGENCY,HOME,Government,SINGLE,WHITE,Poisoning and Injury,Large,No,No
+Diseases of blood and circulatory system,Middle,M,EMERGENCY,HOME HEALTH CARE,Private,MARRIED,WHITE,Diseases of nervous system and Mental Disorder,,No,No
+Poisoning and Injury,Middle,F,EMERGENCY,SNF,Medicare,DIVORCED,WHITE,"Endocrine, Metabolic, Immunity Disorder and Sepsis",Midium,No,No
+Poisoning and Injury,Middle,F,EMERGENCY,DISC-TRAN CANCER/CHLDRN H,Government,SEPARATED,WHITE,Poisoning and Injury,,Yes,Yes
+"Skin, Subcutaneous tissue and Musculoskeletal diseases ",Middle,F,EMERGENCY,HOME HEALTH CARE,Private,MARRIED,ASIAN,Diseases of respiratory system,Large,No,No
+Poisoning and Injury,Young,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicaid,SINGLE,BLACK/AFRICAN AMERICAN,Poisoning and Injury,,No,No
+"Skin, Subcutaneous tissue and Musculoskeletal diseases ",Middle,M,EMERGENCY,HOME HEALTH CARE,Private,MARRIED,ASIAN,"Skin, Subcutaneous tissue and Musculoskeletal diseases ",Large,No,Yes
+Diseases of respiratory system,Middle,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Private,SINGLE,BLACK/AFRICAN AMERICAN,Poisoning and Injury,,Yes,Yes
+Diseases of nervous system and Mental Disorder,Middle,M,EMERGENCY,DISC-TRAN CANCER/CHLDRN H,Medicaid,SINGLE,WHITE,Poisoning and Injury,Short,No,No
+"Skin, Subcutaneous tissue and Musculoskeletal diseases ",Senior,F,EMERGENCY,REHAB/DISTINCT PART HOSP,Medicare,NULL,WHITE,Diseases of genitourinary system,,No,No
+Diseases of respiratory system,Middle,F,EMERGENCY,DEAD/EXPIRED,Self Pay,DIVORCED,WHITE,Poisoning and Injury,Midium,Yes,Yes
+Poisoning and Injury,Middle,M,EMERGENCY,HOME,Private,SINGLE,OTHER,Poisoning and Injury,Large,Yes,Yes
+Poisoning and Injury,Middle,F,ELECTIVE,HOME,Private,WIDOWED,WHITE,Diseases of digestive system,Midium,No,No
+,Middle,M,EMERGENCY,HOME,Medicaid,SINGLE,WHITE,Diseases of nervous system and Mental Disorder,Midium,Yes,Yes
+Diseases of genitourinary system,Young,M,EMERGENCY,HOME,Medicare,SINGLE,WHITE,"Endocrine, Metabolic, Immunity Disorder and Sepsis",Midium,Yes,Yes
+Diseases of respiratory system,Young,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicaid,SINGLE,WHITE,Poisoning and Injury,,Yes,Yes
+Poisoning and Injury,Young,F,EMERGENCY,DISC-TRAN CANCER/CHLDRN H,Medicaid,SINGLE,UNKNOWN/NOT SPECIFIED,Diseases of nervous system and Mental Disorder,,Yes,Yes
+Diseases of respiratory system,Young,M,EMERGENCY,DISC-TRAN CANCER/CHLDRN H,Medicaid,SINGLE,UNKNOWN/NOT SPECIFIED,Poisoning and Injury,Large,Yes,Yes
+Poisoning and Injury,Young,F,EMERGENCY,DISC-TRAN CANCER/CHLDRN H,Government,SINGLE,WHITE,Poisoning and Injury,Large,No,No
+,Middle,M,EMERGENCY,HOME,Medicare,SINGLE,WHITE,Diseases of respiratory system,,No,No
+Diseases of nervous system and Mental Disorder,Young,M,EMERGENCY,HOME,Private,SINGLE,WHITE,Diseases of nervous system and Mental Disorder,Midium,No,No
+Diseases of genitourinary system,Middle,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicare,SINGLE,WHITE,Poisoning and Injury,Short,No,No
+Poisoning and Injury,Young,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Private,SINGLE,WHITE,Diseases of nervous system and Mental Disorder,,No,No
+Diseases of blood and circulatory system,Middle,M,EMERGENCY,LEFT AGAINST MEDICAL ADVI,Private,SINGLE,WHITE,Diseases of nervous system and Mental Disorder,,Yes,Yes
+Poisoning and Injury,Middle,F,EMERGENCY,HOME,Medicare,SINGLE,WHITE,Diseases of respiratory system,,No,No
+Poisoning and Injury,Middle,F,EMERGENCY,HOME,Medicaid,SINGLE,WHITE,Diseases of digestive system,Large,No,No
+Poisoning and Injury,Middle,F,EMERGENCY,HOME,Medicaid,DIVORCED,HISPANIC/LATINO - PUERTO RICAN,Diseases of respiratory system,Midium,No,No
+Diseases of nervous system and Mental Disorder,Young,M,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Private,SINGLE,WHITE,Poisoning and Injury,,No,No
+Diseases of respiratory system,Middle,M,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Private,MARRIED,WHITE,Diseases of nervous system and Mental Disorder,,No,No
+Poisoning and Injury,Young,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Private,SINGLE,WHITE,Poisoning and Injury,Large,No,No
+Poisoning and Injury,Middle,M,EMERGENCY,HOME,Private,SINGLE,WHITE,Diseases of nervous system and Mental Disorder,Midium,Yes,Yes
+Diseases of digestive system,Young,M,EMERGENCY,LONG TERM CARE HOSPITAL,Medicaid,MARRIED,WHITE,Diseases of blood and circulatory system,Large,No,No
+Diseases of blood and circulatory system,Middle,M,EMERGENCY,DEAD/EXPIRED,Medicare,SINGLE,WHITE,"Endocrine, Metabolic, Immunity Disorder and Sepsis",Short,No,No
+Poisoning and Injury,Middle,M,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicaid,SINGLE,WHITE,Poisoning and Injury,,Yes,Yes
+Diseases of genitourinary system,Young,M,EMERGENCY,HOME,Private,SINGLE,WHITE,Poisoning and Injury,Large,No,No
+Diseases of genitourinary system,Middle,F,EMERGENCY,HOME HEALTH CARE,Medicaid,MARRIED,WHITE,Diseases of nervous system and Mental Disorder,Large,Yes,Yes
+Diseases of respiratory system,Middle,M,EMERGENCY,DEAD/EXPIRED,Private,SINGLE,WHITE,Diseases of blood and circulatory system,,Yes,Yes
+Diseases of blood and circulatory system,Middle,F,URGENT,HOME HEALTH CARE,Private,MARRIED,WHITE,,Midium,No,No
+Diseases of genitourinary system,Senior,M,ELECTIVE,HOME,Medicare,WIDOWED,WHITE,Diseases of genitourinary system,,No,No
+"Skin, Subcutaneous tissue and Musculoskeletal diseases ",Middle,M,EMERGENCY,DEAD/EXPIRED,Private,MARRIED,WHITE,Poisoning and Injury,,Yes,Yes
+"Skin, Subcutaneous tissue and Musculoskeletal diseases ",Senior,M,EMERGENCY,HOME HEALTH CARE,Medicare,MARRIED,WHITE,Diseases of nervous system and Mental Disorder,,Yes,Yes
+Diseases of digestive system,Middle,F,EMERGENCY,HOME,Medicaid,DIVORCED,WHITE,Diseases of blood and circulatory system,,No,No
+Diseases of blood and circulatory system,Middle,F,EMERGENCY,HOME HEALTH CARE,Medicaid,SINGLE,BLACK/AFRICAN AMERICAN,Poisoning and Injury,Large,Yes,Yes
+Diseases of nervous system and Mental Disorder,Young,M,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicaid,NULL,WHITE,Poisoning and Injury,Short,Yes,Yes
+Diseases of blood and circulatory system,Senior,F,EMERGENCY,REHAB/DISTINCT PART HOSP,Private,MARRIED,WHITE,Diseases of respiratory system,Large,No,No
+Diseases of blood and circulatory system,Middle,F,EMERGENCY,HOME HEALTH CARE,Medicaid,DIVORCED,WHITE,Poisoning and Injury,,No,No
+Poisoning and Injury,Middle,M,EMERGENCY,REHAB/DISTINCT PART HOSP,Private,MARRIED,WHITE,Poisoning and Injury,Large,Yes,Yes
+Diseases of respiratory system,Young,F,URGENT,DISCH-TRAN TO PSYCH HOSP,Medicare,SINGLE,WHITE,Poisoning and Injury,,No,No
+Poisoning and Injury,Young,M,EMERGENCY,HOME,Government,SINGLE,WHITE,Diseases of digestive system,Large,No,No
+Diseases of digestive system,Middle,M,EMERGENCY,HOME,Private,MARRIED,WHITE,Poisoning and Injury,Short,No,No
+Poisoning and Injury,Young,F,EMERGENCY,HOME,Medicare,SINGLE,WHITE,Diseases of nervous system and Mental Disorder,Short,No,No
+"Endocrine, Metabolic, Immunity Disorder and Sepsis",Senior,F,EMERGENCY,SNF,Medicare,WIDOWED,WHITE,Diseases of respiratory system,Large,No,No
+Diseases of digestive system,Middle,M,EMERGENCY,SHORT TERM HOSPITAL,Medicaid,NULL,UNKNOWN/NOT SPECIFIED,Diseases of blood and circulatory system,Large,No,No
+Diseases of digestive system,Middle,M,EMERGENCY,HOME HEALTH CARE,Medicare,MARRIED,WHITE,"Endocrine, Metabolic, Immunity Disorder and Sepsis",Short,No,No
+Diseases of digestive system,Middle,F,ELECTIVE,HOME,Private,MARRIED,WHITE,Diseases of nervous system and Mental Disorder,Short,Yes,Yes
+Diseases of genitourinary system,Middle,F,URGENT,SHORT TERM HOSPITAL,Medicare,DIVORCED,UNKNOWN/NOT SPECIFIED,"Endocrine, Metabolic, Immunity Disorder and Sepsis",Short,No,No
+Diseases of nervous system and Mental Disorder,Middle,F,EMERGENCY,HOME,Medicare,MARRIED,WHITE,Poisoning and Injury,,Yes,Yes
+Diseases of nervous system and Mental Disorder,Middle,F,EMERGENCY,REHAB/DISTINCT PART HOSP,Medicare,SINGLE,BLACK/AFRICAN AMERICAN,Diseases of respiratory system,Large,Yes,Yes
+"Endocrine, Metabolic, Immunity Disorder and Sepsis",Young,F,EMERGENCY,OTHER FACILITY,Private,MARRIED,WHITE,Diseases of respiratory system,Midium,No,No
+Poisoning and Injury,Young,M,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicaid,SINGLE,WHITE,Diseases of respiratory system,Midium,Yes,Yes
+"Endocrine, Metabolic, Immunity Disorder and Sepsis",Senior,M,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicare,MARRIED,OTHER,Poisoning and Injury,Large,Yes,Yes
+"Endocrine, Metabolic, Immunity Disorder and Sepsis",Middle,M,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Private,NULL,OTHER,Poisoning and Injury,,No,No
+"Skin, Subcutaneous tissue and Musculoskeletal diseases ",Middle,M,EMERGENCY,LEFT AGAINST MEDICAL ADVI,Medicaid,SINGLE,WHITE,Diseases of nervous system and Mental Disorder,Large,Yes,Yes
+"Skin, Subcutaneous tissue and Musculoskeletal diseases ",Young,M,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicaid,SINGLE,WHITE,Poisoning and Injury,Midium,Yes,Yes
+Diseases of respiratory system,Young,M,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Government,NULL,WHITE,Poisoning and Injury,Short,,Yes
+Diseases of blood and circulatory system,Middle,F,EMERGENCY,OTHER FACILITY,Medicaid,SINGLE,HISPANIC/LATINO - PUERTO RICAN,Poisoning and Injury,Large,No,No
+"Skin, Subcutaneous tissue and Musculoskeletal diseases ",Young,F,EMERGENCY,HOME,Private,MARRIED,BLACK/AFRICAN AMERICAN,Diseases of nervous system and Mental Disorder,Short,No,No
+Diseases of nervous system and Mental Disorder,Senior,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicare,SINGLE,WHITE - RUSSIAN,Diseases of nervous system and Mental Disorder,Short,No,No
+Diseases of blood and circulatory system,Middle,M,EMERGENCY,HOME,Medicaid,SINGLE,WHITE,Diseases of blood and circulatory system,,Yes,Yes
+Poisoning and Injury,Young,M,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicaid,SINGLE,WHITE,Poisoning and Injury,,Yes,Yes
+Diseases of digestive system,Middle,M,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Private,DIVORCED,WHITE,Diseases of digestive system,,Yes,Yes
+Diseases of blood and circulatory system,Middle,M,EMERGENCY,HOME,Medicare,DIVORCED,WHITE,Diseases of nervous system and Mental Disorder,,No,No
+Diseases of respiratory system,Young,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Private,NULL,UNKNOWN/NOT SPECIFIED,Poisoning and Injury,,No,No
+Diseases of respiratory system,Middle,M,EMERGENCY,HOME HEALTH CARE,Medicaid,SINGLE,PATIENT DECLINED TO ANSWER,Diseases of blood and circulatory system,Large,Yes,Yes
+Diseases of blood and circulatory system,Senior,M,EMERGENCY,HOME HEALTH CARE,Medicare,DIVORCED,WHITE,Diseases of blood and circulatory system,,No,No
+Poisoning and Injury,Young,M,EMERGENCY,HOME,Self Pay,NULL,UNKNOWN/NOT SPECIFIED,Poisoning and Injury,Midium,No,No
+Poisoning and Injury,Middle,M,EMERGENCY,HOME,Medicare,SINGLE,WHITE,Poisoning and Injury,Large,No,No
+Diseases of nervous system and Mental Disorder,Middle,M,EMERGENCY,REHAB/DISTINCT PART HOSP,Medicare,MARRIED,WHITE,Diseases of blood and circulatory system,Large,No,No
+Diseases of blood and circulatory system,Middle,M,EMERGENCY,SNF,Private,SINGLE,WHITE,Poisoning and Injury,Midium,No,No
+Diseases of blood and circulatory system,Senior,M,EMERGENCY,HOME HEALTH CARE,Private,MARRIED,WHITE,Poisoning and Injury,Large,Yes,Yes
+Diseases of genitourinary system,Middle,M,EMERGENCY,OTHER FACILITY,Medicare,SINGLE,WHITE,Diseases of digestive system,Large,Yes,Yes
+Poisoning and Injury,Middle,F,EMERGENCY,HOME HEALTH CARE,Medicaid,SINGLE,WHITE,Diseases of nervous system and Mental Disorder,Midium,No,No
+Diseases of blood and circulatory system,Senior,F,EMERGENCY,DEAD/EXPIRED,Medicare,NULL,UNKNOWN/NOT SPECIFIED,Diseases of blood and circulatory system,Short,Yes,Yes
+Diseases of respiratory system,Young,M,EMERGENCY,SHORT TERM HOSPITAL,Self Pay,SINGLE,WHITE,"Endocrine, Metabolic, Immunity Disorder and Sepsis",,No,No
+Poisoning and Injury,Young,F,EMERGENCY,HOME,Medicaid,SINGLE,NATIVE HAWAIIAN OR OTHER PACIFIC ISLANDER,"Endocrine, Metabolic, Immunity Disorder and Sepsis",Large,No,No
+Diseases of digestive system,Young,F,EMERGENCY,HOME,Private,SINGLE,WHITE,Diseases of digestive system,Large,No,No
+"Skin, Subcutaneous tissue and Musculoskeletal diseases ",Senior,F,EMERGENCY,HOME HEALTH CARE,Medicare,MARRIED,UNKNOWN/NOT SPECIFIED,Diseases of digestive system,,No,No
+Poisoning and Injury,Young,F,EMERGENCY,HOME,Medicare,SINGLE,WHITE,Poisoning and Injury,,No,No
+Diseases of nervous system and Mental Disorder,Young,M,EMERGENCY,HOME,Government,NULL,WHITE,Poisoning and Injury,,Yes,Yes
+Poisoning and Injury,Young,F,EMERGENCY,HOME,Self Pay,NULL,UNABLE TO OBTAIN,Poisoning and Injury,,No,No
+"Endocrine, Metabolic, Immunity Disorder and Sepsis",Senior,F,EMERGENCY,REHAB/DISTINCT PART HOSP,Medicare,MARRIED,WHITE,Poisoning and Injury,,Yes,Yes
+Poisoning and Injury,Senior,F,EMERGENCY,DEAD/EXPIRED,Medicare,NULL,UNKNOWN/NOT SPECIFIED,Diseases of digestive system,Large,No,No
+Poisoning and Injury,Young,M,EMERGENCY,DEAD/EXPIRED,Medicaid,SINGLE,WHITE,Diseases of digestive system,,No,No
+Poisoning and Injury,Young,M,EMERGENCY,HOME HEALTH CARE,Medicaid,NULL,OTHER,Diseases of blood and circulatory system,Large,No,No
+Diseases of blood and circulatory system,Middle,M,EMERGENCY,DEAD/EXPIRED,Medicare,SINGLE,UNABLE TO OBTAIN,Diseases of blood and circulatory system,Short,No,No
+Poisoning and Injury,Middle,M,EMERGENCY,HOME HEALTH CARE,Medicare,SINGLE,WHITE,Diseases of nervous system and Mental Disorder,Large,Yes,Yes
+Diseases of respiratory system,Middle,F,EMERGENCY,DEAD/EXPIRED,Medicaid,NULL,WHITE,Poisoning and Injury,Large,No,No
+Diseases of blood and circulatory system,Middle,F,EMERGENCY,HOME,Private,MARRIED,WHITE,Diseases of nervous system and Mental Disorder,,No,No
+Poisoning and Injury,Middle,F,EMERGENCY,REHAB/DISTINCT PART HOSP,Private,DIVORCED,WHITE,"Skin, Subcutaneous tissue and Musculoskeletal diseases ",Short,Yes,Yes
+Diseases of genitourinary system,Senior,F,EMERGENCY,REHAB/DISTINCT PART HOSP,Medicare,MARRIED,WHITE,Diseases of nervous system and Mental Disorder,Large,Yes,Yes
+"Endocrine, Metabolic, Immunity Disorder and Sepsis",Middle,M,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicaid,WIDOWED,WHITE,Poisoning and Injury,Midium,Yes,Yes
+Diseases of genitourinary system,Senior,M,EMERGENCY,HOME HEALTH CARE,Private,MARRIED,WHITE,Diseases of respiratory system,Midium,Yes,Yes
+Diseases of digestive system,Middle,M,EMERGENCY,DEAD/EXPIRED,Medicaid,SINGLE,WHITE,Diseases of digestive system,Short,No,No
+Diseases of blood and circulatory system,Middle,M,EMERGENCY,HOME,Medicaid,SINGLE,WHITE,Poisoning and Injury,,No,No
+Diseases of blood and circulatory system,Middle,F,EMERGENCY,REHAB/DISTINCT PART HOSP,Medicare,SEPARATED,WHITE,"Endocrine, Metabolic, Immunity Disorder and Sepsis",Large,No,No
+Diseases of digestive system,Middle,M,EMERGENCY,LONG TERM CARE HOSPITAL,Medicare,SINGLE,HISPANIC OR LATINO,"Endocrine, Metabolic, Immunity Disorder and Sepsis",,No,No
+,Young,F,EMERGENCY,DEAD/EXPIRED,Medicaid,SINGLE,WHITE,Diseases of digestive system,Short,No,No
+Poisoning and Injury,Middle,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicaid,SINGLE,HISPANIC OR LATINO,Poisoning and Injury,Midium,Yes,Yes
+Diseases of nervous system and Mental Disorder,Middle,M,EMERGENCY,HOME HEALTH CARE,Medicaid,WIDOWED,WHITE,Diseases of blood and circulatory system,,No,No
+"Skin, Subcutaneous tissue and Musculoskeletal diseases ",Senior,F,EMERGENCY,LONG TERM CARE HOSPITAL,Medicare,MARRIED,BLACK/AFRICAN AMERICAN,Diseases of genitourinary system,Short,No,No
+Poisoning and Injury,Middle,M,EMERGENCY,LEFT AGAINST MEDICAL ADVI,Medicaid,UNKNOWN (DEFAULT),WHITE,Diseases of nervous system and Mental Disorder,,Yes,Yes
+"Endocrine, Metabolic, Immunity Disorder and Sepsis",Middle,M,EMERGENCY,HOME HEALTH CARE,Medicare,SINGLE,BLACK/AFRICAN AMERICAN,Diseases of nervous system and Mental Disorder,Large,No,No
+Poisoning and Injury,Middle,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Private,MARRIED,WHITE,Diseases of digestive system,,No,No
+Diseases of digestive system,,F,EMERGENCY,SNF,Medicare,NULL,WHITE,Poisoning and Injury,Midium,No,No
+Diseases of blood and circulatory system,,F,EMERGENCY,DEAD/EXPIRED,Medicare,WIDOWED,WHITE,Diseases of blood and circulatory system,Large,No,No
+Diseases of digestive system,Young,F,EMERGENCY,LEFT AGAINST MEDICAL ADVI,Medicaid,SEPARATED,WHITE,Poisoning and Injury,Short,No,No
+Diseases of blood and circulatory system,Senior,M,EMERGENCY,HOME HEALTH CARE,Medicare,NULL,WHITE,Diseases of digestive system,Midium,Yes,Yes
+"Endocrine, Metabolic, Immunity Disorder and Sepsis",Senior,F,EMERGENCY,HOME,Medicare,WIDOWED,WHITE,Diseases of respiratory system,Short,Yes,Yes
+Diseases of blood and circulatory system,Middle,F,EMERGENCY,HOME,Private,MARRIED,OTHER,Diseases of blood and circulatory system,,Yes,Yes
+Diseases of blood and circulatory system,Senior,M,EMERGENCY,DEAD/EXPIRED,Medicare,MARRIED,WHITE,Poisoning and Injury,,No,No
+Diseases of respiratory system,Middle,M,EMERGENCY,REHAB/DISTINCT PART HOSP,Medicaid,MARRIED,WHITE,Diseases of nervous system and Mental Disorder,Large,No,No
+Diseases of blood and circulatory system,Middle,M,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Private,MARRIED,UNKNOWN/NOT SPECIFIED,Diseases of digestive system,,No,No
+Diseases of digestive system,Middle,M,EMERGENCY,HOME,Medicaid,SINGLE,WHITE,Diseases of digestive system,Large,No,No
+Diseases of digestive system,Middle,F,EMERGENCY,REHAB/DISTINCT PART HOSP,Medicaid,DIVORCED,WHITE,Diseases of digestive system,Large,No,No
+Poisoning and Injury,Middle,M,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicare,DIVORCED,WHITE,Poisoning and Injury,,Yes,Yes
+Diseases of blood and circulatory system,Young,F,EMERGENCY,HOME,Government,SINGLE,BLACK/AFRICAN AMERICAN,Diseases of blood and circulatory system,Midium,No,No
+Diseases of genitourinary system,Senior,M,EMERGENCY,HOME HEALTH CARE,Private,MARRIED,WHITE,Diseases of nervous system and Mental Disorder,Midium,Yes,Yes
+Diseases of digestive system,Middle,M,EMERGENCY,HOME,Medicaid,SINGLE,WHITE,Diseases of respiratory system,Large,Yes,Yes
+Poisoning and Injury,Young,F,EMERGENCY,HOME,Private,SINGLE,WHITE,Poisoning and Injury,Large,Yes,Yes
+Diseases of blood and circulatory system,Young,M,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Government,SINGLE,BLACK/CAPE VERDEAN,Poisoning and Injury,Large,No,No
+Diseases of nervous system and Mental Disorder,Young,F,EMERGENCY,LONG TERM CARE HOSPITAL,Private,SINGLE,WHITE,Diseases of digestive system,,No,No
+"Endocrine, Metabolic, Immunity Disorder and Sepsis",Middle,M,EMERGENCY,SNF,Medicaid,SINGLE,WHITE,"Endocrine, Metabolic, Immunity Disorder and Sepsis",,Yes,Yes
+"Skin, Subcutaneous tissue and Musculoskeletal diseases ",Middle,F,EMERGENCY,HOME,Medicaid,MARRIED,WHITE,Poisoning and Injury,Large,Yes,Yes
+Diseases of blood and circulatory system,Senior,M,EMERGENCY,DEAD/EXPIRED,Medicare,SEPARATED,WHITE,Diseases of blood and circulatory system,Large,No,No
+Diseases of nervous system and Mental Disorder,Senior,F,EMERGENCY,LONG TERM CARE HOSPITAL,Medicare,SINGLE,BLACK/AFRICAN AMERICAN,"Endocrine, Metabolic, Immunity Disorder and Sepsis",,Yes,Yes
+Diseases of blood and circulatory system,Senior,M,ELECTIVE,LONG TERM CARE HOSPITAL,Medicare,DIVORCED,WHITE,Diseases of blood and circulatory system,Large,No,No
+Poisoning and Injury,Young,M,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Government,MARRIED,HISPANIC OR LATINO,Diseases of respiratory system,Short,Yes,Yes
+Diseases of blood and circulatory system,Senior,M,EMERGENCY,SNF,Private,SINGLE,WHITE,Diseases of blood and circulatory system,,No,No
+Diseases of nervous system and Mental Disorder,Middle,F,EMERGENCY,HOME,Private,MARRIED,WHITE,Poisoning and Injury,Large,Yes,Yes
+Diseases of nervous system and Mental Disorder,Senior,M,EMERGENCY,DEAD/EXPIRED,Private,WIDOWED,UNABLE TO OBTAIN,Diseases of respiratory system,Large,No,No
+"Skin, Subcutaneous tissue and Musculoskeletal diseases ",Young,F,EMERGENCY,HOME,Self Pay,NULL,UNABLE TO OBTAIN,Diseases of digestive system,,No,No
+Poisoning and Injury,Young,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Private,SINGLE,WHITE,Poisoning and Injury,,No,No
+"Skin, Subcutaneous tissue and Musculoskeletal diseases ",Middle,M,EMERGENCY,HOME HEALTH CARE,Private,DIVORCED,OTHER,Diseases of digestive system,Large,No,No
+Poisoning and Injury,Young,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicaid,SINGLE,WHITE,Poisoning and Injury,Midium,No,No
+Poisoning and Injury,Middle,M,EMERGENCY,HOME,Medicaid,SINGLE,WHITE,Diseases of nervous system and Mental Disorder,,Yes,Yes
+Diseases of digestive system,Middle,F,EMERGENCY,LONG TERM CARE HOSPITAL,Medicaid,DIVORCED,WHITE,Diseases of digestive system,,No,No
+Diseases of nervous system and Mental Disorder,Young,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicaid,SINGLE,WHITE,Poisoning and Injury,,Yes,Yes
+Diseases of nervous system and Mental Disorder,Middle,F,EMERGENCY,HOME HEALTH CARE,Medicare,SINGLE,WHITE,Diseases of respiratory system,,No,No
+"Skin, Subcutaneous tissue and Musculoskeletal diseases ",Middle,M,EMERGENCY,HOME,Medicaid,SINGLE,WHITE,Diseases of respiratory system,Short,No,No
+Diseases of digestive system,Senior,F,EMERGENCY,REHAB/DISTINCT PART HOSP,Medicare,DIVORCED,WHITE,Diseases of blood and circulatory system,Large,No,No
+Diseases of nervous system and Mental Disorder,Middle,M,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicare,MARRIED,HISPANIC OR LATINO,Poisoning and Injury,,Yes,Yes
+Diseases of respiratory system,Young,F,EMERGENCY,HOME,Private,SINGLE,WHITE,Poisoning and Injury,Large,No,No
+"Endocrine, Metabolic, Immunity Disorder and Sepsis",Young,M,EMERGENCY,HOME,Medicaid,NULL,UNKNOWN/NOT SPECIFIED,"Endocrine, Metabolic, Immunity Disorder and Sepsis",,No,No
+"Skin, Subcutaneous tissue and Musculoskeletal diseases ",Young,M,EMERGENCY,DEAD/EXPIRED,Government,SINGLE,WHITE,Poisoning and Injury,Short,Yes,Yes
+Diseases of blood and circulatory system,Middle,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Private,MARRIED,WHITE,Poisoning and Injury,Midium,Yes,Yes
+Diseases of genitourinary system,Middle,F,EMERGENCY,HOME HEALTH CARE,Medicare,SINGLE,WHITE,Diseases of digestive system,Midium,No,No
+Diseases of blood and circulatory system,Middle,M,EMERGENCY,HOME,Government,MARRIED,WHITE,Diseases of genitourinary system,Large,No,No
+Diseases of respiratory system,Young,F,ELECTIVE,HOME,Medicaid,SINGLE,HISPANIC/LATINO - DOMINICAN,"Skin, Subcutaneous tissue and Musculoskeletal diseases ",,No,No
+Diseases of respiratory system,Young,F,EMERGENCY,SNF,Medicare,SINGLE,HISPANIC/LATINO - PUERTO RICAN,Diseases of digestive system,Large,No,No
+Poisoning and Injury,Middle,M,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicaid,SINGLE,WHITE,Poisoning and Injury,,Yes,Yes
+Diseases of digestive system,Young,F,EMERGENCY,HOME,Private,MARRIED,UNABLE TO OBTAIN,Diseases of digestive system,,No,No
+Diseases of respiratory system,Young,M,EMERGENCY,HOME,Medicare,SINGLE,WHITE,Diseases of nervous system and Mental Disorder,Short,No,No
+"Endocrine, Metabolic, Immunity Disorder and Sepsis",Middle,M,EMERGENCY,HOME,Private,MARRIED,WHITE,Diseases of digestive system,,No,No
+Poisoning and Injury,Young,M,EMERGENCY,DEAD/EXPIRED,Medicaid,SINGLE,WHITE,Diseases of blood and circulatory system,Large,Yes,Yes
+Diseases of respiratory system,Middle,M,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Private,MARRIED,UNKNOWN/NOT SPECIFIED,Diseases of digestive system,,Yes,Yes
+Diseases of respiratory system,Middle,M,EMERGENCY,DISC-TRAN TO FEDERAL HC,Medicaid,NULL,UNKNOWN/NOT SPECIFIED,Diseases of respiratory system,Midium,Yes,Yes
+,Young,,,,,,,,Short,Yes,Yes
+Diseases of nervous system and Mental Disorder,Senior,F,EMERGENCY,HOME,Medicare,SINGLE,WHITE,Diseases of digestive system,,Yes,Yes
+Poisoning and Injury,Young,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Private,MARRIED,WHITE,Poisoning and Injury,Large,No,No
+"Skin, Subcutaneous tissue and Musculoskeletal diseases ",Middle,F,EMERGENCY,HOME,Medicaid,DIVORCED,WHITE,Poisoning and Injury,Short,No,No
+Diseases of respiratory system,Young,M,EMERGENCY,HOME,Private,SINGLE,WHITE,Diseases of nervous system and Mental Disorder,Short,No,No
+Diseases of blood and circulatory system,Young,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Self Pay,SINGLE,WHITE,Poisoning and Injury,,No,No
+Poisoning and Injury,Young,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Government,SINGLE,WHITE,Diseases of digestive system,,No,No
+"Skin, Subcutaneous tissue and Musculoskeletal diseases ",Middle,M,EMERGENCY,DEAD/EXPIRED,Private,NULL,UNKNOWN/NOT SPECIFIED,Diseases of respiratory system,Large,Yes,Yes
+"Skin, Subcutaneous tissue and Musculoskeletal diseases ",Young,F,EMERGENCY,HOME,Medicaid,NULL,UNKNOWN/NOT SPECIFIED,Diseases of nervous system and Mental Disorder,Short,No,No
+Diseases of digestive system,Middle,M,EMERGENCY,HOME,Private,MARRIED,WHITE,Diseases of nervous system and Mental Disorder,Large,Yes,Yes
+Diseases of nervous system and Mental Disorder,Middle,F,EMERGENCY,HOME,Medicare,SINGLE,BLACK/AFRICAN AMERICAN,Diseases of digestive system,Short,Yes,Yes
+Diseases of blood and circulatory system,Middle,F,EMERGENCY,HOME,Government,NULL,UNABLE TO OBTAIN,Poisoning and Injury,,Yes,Yes
+Poisoning and Injury,Young,M,EMERGENCY,HOME,Medicaid,MARRIED,WHITE,Poisoning and Injury,,No,No
+Diseases of nervous system and Mental Disorder,Middle,F,EMERGENCY,DEAD/EXPIRED,Medicaid,SINGLE,WHITE,Diseases of nervous system and Mental Disorder,Midium,Yes,Yes
+Diseases of nervous system and Mental Disorder,Middle,F,EMERGENCY,HOME,Government,SINGLE,WHITE,Diseases of digestive system,Large,Yes,Yes
+Diseases of digestive system,Middle,F,EMERGENCY,SNF,Medicare,DIVORCED,WHITE,Diseases of respiratory system,,No,No
+Diseases of respiratory system,Young,F,EMERGENCY,DEAD/EXPIRED,Self Pay,NULL,UNKNOWN/NOT SPECIFIED,Diseases of blood and circulatory system,,No,No
+"Endocrine, Metabolic, Immunity Disorder and Sepsis",Young,F,EMERGENCY,SNF,Medicare,SINGLE,WHITE,Poisoning and Injury,,Yes,Yes
+"Endocrine, Metabolic, Immunity Disorder and Sepsis",,F,EMERGENCY,LONG TERM CARE HOSPITAL,Medicare,WIDOWED,BLACK/AFRICAN AMERICAN,Diseases of respiratory system,,No,No
+Diseases of digestive system,Middle,M,EMERGENCY,LEFT AGAINST MEDICAL ADVI,Self Pay,SINGLE,HISPANIC OR LATINO,"Endocrine, Metabolic, Immunity Disorder and Sepsis",,Yes,Yes
+,Middle,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Private,SINGLE,UNKNOWN/NOT SPECIFIED,Poisoning and Injury,Large,No,No
+"Endocrine, Metabolic, Immunity Disorder and Sepsis",Middle,F,EMERGENCY,LONG TERM CARE HOSPITAL,Medicare,SINGLE,WHITE,Diseases of digestive system,,No,No
+Diseases of blood and circulatory system,Young,F,EMERGENCY,HOME,Private,MARRIED,WHITE,Diseases of nervous system and Mental Disorder,Midium,Yes,Yes
+Diseases of genitourinary system,Young,F,EMERGENCY,REHAB/DISTINCT PART HOSP,Private,SINGLE,WHITE,Diseases of nervous system and Mental Disorder,Large,No,No
+Diseases of blood and circulatory system,Middle,M,EMERGENCY,HOSPICE-MEDICAL FACILITY,Medicare,NULL,UNKNOWN/NOT SPECIFIED,Poisoning and Injury,Short,No,No
+Diseases of digestive system,Middle,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Private,MARRIED,WHITE,Poisoning and Injury,Short,No,No
+"Endocrine, Metabolic, Immunity Disorder and Sepsis",Middle,F,EMERGENCY,LONG TERM CARE HOSPITAL,Private,MARRIED,WHITE,Diseases of nervous system and Mental Disorder,,No,No
+Poisoning and Injury,Middle,M,ELECTIVE,HOME,Medicare,SINGLE,WHITE,"Skin, Subcutaneous tissue and Musculoskeletal diseases ",,No,No
+Diseases of blood and circulatory system,Young,M,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicaid,NULL,UNKNOWN/NOT SPECIFIED,Diseases of nervous system and Mental Disorder,Short,Yes,Yes
+Diseases of digestive system,Young,F,EMERGENCY,HOME HEALTH CARE,Private,MARRIED,WHITE,Diseases of digestive system,,No,No
+Diseases of respiratory system,Young,M,EMERGENCY,SHORT TERM HOSPITAL,Medicaid,SINGLE,HISPANIC OR LATINO,Diseases of nervous system and Mental Disorder,Short,No,No
+Poisoning and Injury,Young,M,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Government,SINGLE,WHITE - BRAZILIAN,Poisoning and Injury,Large,No,No
+Diseases of nervous system and Mental Disorder,Young,F,EMERGENCY,HOME,Private,SINGLE,UNABLE TO OBTAIN,Diseases of digestive system,,No,No
+Diseases of blood and circulatory system,Middle,F,EMERGENCY,LONG TERM CARE HOSPITAL,Private,SINGLE,PATIENT DECLINED TO ANSWER,Diseases of digestive system,,No,No
+Diseases of digestive system,Senior,F,EMERGENCY,SNF,Medicare,WIDOWED,WHITE,Diseases of digestive system,Large,Yes,Yes
+Diseases of blood and circulatory system,Middle,F,EMERGENCY,HOME HEALTH CARE,Private,MARRIED,WHITE,Diseases of digestive system,Short,No,No
+Diseases of genitourinary system,Middle,F,EMERGENCY,HOME HEALTH CARE,Private,DIVORCED,WHITE,Diseases of digestive system,Large,No,No
+Diseases of nervous system and Mental Disorder,Middle,F,EMERGENCY,LONG TERM CARE HOSPITAL,Medicare,NULL,OTHER,Diseases of nervous system and Mental Disorder,Large,No,No
+Poisoning and Injury,Young,F,EMERGENCY,HOME,Medicaid,SINGLE,WHITE,Poisoning and Injury,Short,Yes,Yes
+"Skin, Subcutaneous tissue and Musculoskeletal diseases ",Senior,M,EMERGENCY,HOME HEALTH CARE,Medicare,MARRIED,WHITE,"Endocrine, Metabolic, Immunity Disorder and Sepsis",,No,No
+Diseases of genitourinary system,Senior,F,EMERGENCY,DEAD/EXPIRED,Medicare,MARRIED,WHITE,Diseases of blood and circulatory system,Large,No,No
+Poisoning and Injury,Middle,F,EMERGENCY,HOME,Medicare,SINGLE,WHITE,Diseases of blood and circulatory system,Midium,No,No
+Diseases of blood and circulatory system,Young,M,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicaid,SINGLE,WHITE,Diseases of nervous system and Mental Disorder,,No,No
+Diseases of digestive system,Middle,M,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicaid,SINGLE,WHITE,Poisoning and Injury,Midium,No,No
+"Endocrine, Metabolic, Immunity Disorder and Sepsis",Young,M,EMERGENCY,LEFT AGAINST MEDICAL ADVI,Government,WIDOWED,WHITE,Poisoning and Injury,Short,No,No
+Diseases of nervous system and Mental Disorder,Middle,F,EMERGENCY,HOME,Medicare,MARRIED,WHITE,Diseases of digestive system,Short,No,No
+Poisoning and Injury,Middle,M,EMERGENCY,HOME HEALTH CARE,Medicare,SINGLE,WHITE,"Skin, Subcutaneous tissue and Musculoskeletal diseases ",Large,No,No
+Diseases of digestive system,Middle,F,EMERGENCY,LONG TERM CARE HOSPITAL,Private,MARRIED,WHITE,Diseases of blood and circulatory system,Large,No,No
+Diseases of genitourinary system,Young,F,EMERGENCY,HOME,Medicaid,SINGLE,HISPANIC OR LATINO,Diseases of nervous system and Mental Disorder,,No,No
+Diseases of blood and circulatory system,Senior,M,EMERGENCY,LONG TERM CARE HOSPITAL,Medicare,WIDOWED,BLACK/AFRICAN AMERICAN,Diseases of genitourinary system,Midium,Yes,Yes
+Poisoning and Injury,Young,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicaid,SINGLE,WHITE,Poisoning and Injury,,Yes,Yes
+Poisoning and Injury,Young,M,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Government,SINGLE,UNKNOWN/NOT SPECIFIED,Poisoning and Injury,,No,No
+Diseases of digestive system,Young,M,ELECTIVE,HOME,Medicaid,SINGLE,WHITE,Diseases of digestive system,Midium,Yes,Yes
+Diseases of genitourinary system,Middle,F,ELECTIVE,HOME,Medicare,SINGLE,WHITE,"Endocrine, Metabolic, Immunity Disorder and Sepsis",Short,No,No
+Diseases of digestive system,Young,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Private,SINGLE,NATIVE HAWAIIAN OR OTHER PACIFIC ISLANDER,Poisoning and Injury,,No,No
+Diseases of blood and circulatory system,Middle,M,EMERGENCY,HOME,Medicaid,SINGLE,WHITE,Poisoning and Injury,Short,Yes,Yes
+Diseases of genitourinary system,Senior,F,EMERGENCY,SNF,Medicare,MARRIED,WHITE,Diseases of digestive system,Large,Yes,Yes
+Diseases of blood and circulatory system,Middle,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Private,MARRIED,WHITE,Poisoning and Injury,Large,Yes,Yes
+Poisoning and Injury,Young,F,EMERGENCY,HOME,Medicaid,SINGLE,BLACK/AFRICAN AMERICAN,Diseases of digestive system,Short,No,No
+Diseases of digestive system,Middle,M,EMERGENCY,HOME,Private,MARRIED,WHITE,Diseases of respiratory system,,No,No
+Poisoning and Injury,Middle,F,EMERGENCY,HOME,Medicare,DIVORCED,WHITE,Diseases of nervous system and Mental Disorder,Large,Yes,Yes
+Diseases of blood and circulatory system,Young,F,EMERGENCY,HOME,Government,SINGLE,WHITE,Poisoning and Injury,Large,No,No
+Poisoning and Injury,Middle,M,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Private,SINGLE,WHITE,Poisoning and Injury,,No,No
+Diseases of blood and circulatory system,Senior,M,EMERGENCY,SNF,Medicare,MARRIED,WHITE,Diseases of respiratory system,Short,No,No
+Poisoning and Injury,Young,M,EMERGENCY,HOME,Medicaid,NULL,UNKNOWN/NOT SPECIFIED,Diseases of nervous system and Mental Disorder,Large,No,No
+Poisoning and Injury,Young,M,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Government,NULL,WHITE,Poisoning and Injury,,No,No
+Diseases of blood and circulatory system,Young,M,EMERGENCY,LONG TERM CARE HOSPITAL,Medicaid,SINGLE,WHITE,Poisoning and Injury,Midium,Yes,Yes
+Diseases of digestive system,Middle,M,EMERGENCY,HOSPICE-HOME,Medicare,MARRIED,WHITE,Diseases of nervous system and Mental Disorder,,No,No
+Poisoning and Injury,Young,F,EMERGENCY,HOME,Medicaid,SINGLE,BLACK/CAPE VERDEAN,Diseases of digestive system,Short,No,No
+Poisoning and Injury,Young,F,EMERGENCY,HOME,Private,MARRIED,HISPANIC OR LATINO,Diseases of digestive system,Large,No,No
+Diseases of blood and circulatory system,Middle,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Government,MARRIED,UNKNOWN/NOT SPECIFIED,Poisoning and Injury,Large,Yes,Yes
+Poisoning and Injury,Young,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Government,SINGLE,WHITE,Diseases of digestive system,,No,No
+Diseases of blood and circulatory system,Young,F,EMERGENCY,LONG TERM CARE HOSPITAL,Medicaid,SINGLE,WHITE,Poisoning and Injury,Short,Yes,Yes
+Diseases of genitourinary system,Young,M,EMERGENCY,DEAD/EXPIRED,Government,SINGLE,WHITE,Diseases of blood and circulatory system,Large,Yes,Yes
+Poisoning and Injury,Young,F,EMERGENCY,REHAB/DISTINCT PART HOSP,Medicaid,SINGLE,UNKNOWN/NOT SPECIFIED,Diseases of digestive system,Short,No,No
+Poisoning and Injury,Middle,F,EMERGENCY,HOME,Medicaid,MARRIED,HISPANIC OR LATINO,Diseases of nervous system and Mental Disorder,,Yes,Yes
+Diseases of genitourinary system,Young,M,EMERGENCY,HOME,Private,SINGLE,WHITE,Poisoning and Injury,,Yes,Yes
+Diseases of nervous system and Mental Disorder,Young,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicaid,SINGLE,BLACK/AFRICAN AMERICAN,Diseases of nervous system and Mental Disorder,,No,No
+"Skin, Subcutaneous tissue and Musculoskeletal diseases ",Middle,F,EMERGENCY,HOME,Government,MARRIED,WHITE,Diseases of genitourinary system,Short,No,No
+Poisoning and Injury,Young,M,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicare,NULL,WHITE,Poisoning and Injury,Short,No,No
+Poisoning and Injury,Senior,M,EMERGENCY,DEAD/EXPIRED,Medicare,SINGLE,OTHER,Diseases of respiratory system,,No,No
+Diseases of blood and circulatory system,Middle,M,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicare,SINGLE,WHITE,Diseases of genitourinary system,,Yes,Yes
+Poisoning and Injury,Young,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Private,SINGLE,WHITE,Poisoning and Injury,Large,No,No
+Diseases of blood and circulatory system,Middle,F,EMERGENCY,SHORT TERM HOSPITAL,Medicaid,SINGLE,WHITE,Poisoning and Injury,,No,No
+Diseases of respiratory system,Middle,F,EMERGENCY,LONG TERM CARE HOSPITAL,Private,SINGLE,WHITE,"Skin, Subcutaneous tissue and Musculoskeletal diseases ",,No,No
+Diseases of blood and circulatory system,Senior,M,EMERGENCY,HOME HEALTH CARE,Medicare,WIDOWED,OTHER,Diseases of genitourinary system,Large,Yes,Yes
+Diseases of blood and circulatory system,Young,F,EMERGENCY,DEAD/EXPIRED,Private,SINGLE,UNKNOWN/NOT SPECIFIED,Diseases of digestive system,Large,No,No
+Poisoning and Injury,Young,M,EMERGENCY,HOME,Self Pay,NULL,UNKNOWN/NOT SPECIFIED,Poisoning and Injury,Midium,Yes,Yes
+Diseases of blood and circulatory system,Senior,M,EMERGENCY,HOME,Private,SINGLE,WHITE,Diseases of blood and circulatory system,Large,Yes,Yes
+Poisoning and Injury,Senior,F,EMERGENCY,HOME HEALTH CARE,Medicare,MARRIED,WHITE,Diseases of digestive system,Short,,
+Diseases of blood and circulatory system,Middle,M,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Private,MARRIED,WHITE,Poisoning and Injury,Midium,,
+Diseases of blood and circulatory system,Middle,F,EMERGENCY,HOME HEALTH CARE,Private,DIVORCED,MULTI RACE ETHNICITY,Diseases of nervous system and Mental Disorder,Midium,,
+Poisoning and Injury,Senior,M,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Private,MARRIED,WHITE,Poisoning and Injury,Large,,
+Poisoning and Injury,Senior,F,EMERGENCY,SNF,Private,MARRIED,WHITE,Diseases of nervous system and Mental Disorder,,,
+Poisoning and Injury,Young,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Government,SINGLE,WHITE,Poisoning and Injury,,,
+Diseases of blood and circulatory system,Senior,F,EMERGENCY,HOME HEALTH CARE,Medicaid,MARRIED,WHITE,Diseases of respiratory system,Large,,
+Diseases of blood and circulatory system,Young,M,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicare,MARRIED,WHITE,Poisoning and Injury,,,
+Diseases of digestive system,Middle,M,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicaid,SINGLE,WHITE,Poisoning and Injury,Midium,,
+Poisoning and Injury,Young,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Government,SINGLE,WHITE,Poisoning and Injury,,,
+Diseases of nervous system and Mental Disorder,Middle,F,EMERGENCY,REHAB/DISTINCT PART HOSP,Private,MARRIED,WHITE,Poisoning and Injury,Large,,
+Diseases of respiratory system,Middle,M,EMERGENCY,HOME,Medicare,SINGLE,WHITE,Diseases of nervous system and Mental Disorder,Midium,,
+Poisoning and Injury,Young,M,EMERGENCY,HOME,Medicaid,SINGLE,WHITE,Diseases of genitourinary system,,,
+Diseases of nervous system and Mental Disorder,Young,F,ELECTIVE,HOME,Medicaid,SINGLE,WHITE,Diseases of nervous system and Mental Disorder,,,
+Poisoning and Injury,Young,F,EMERGENCY,DEAD/EXPIRED,Private,NULL,UNKNOWN/NOT SPECIFIED,Poisoning and Injury,Large,,
+Diseases of blood and circulatory system,Young,F,EMERGENCY,HOME,Government,NULL,UNKNOWN/NOT SPECIFIED,Poisoning and Injury,Large,,
+Diseases of nervous system and Mental Disorder,Young,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Government,NULL,UNABLE TO OBTAIN,Poisoning and Injury,,,
+Diseases of respiratory system,Young,M,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Private,DIVORCED,WHITE,Diseases of nervous system and Mental Disorder,Short,,
+Diseases of nervous system and Mental Disorder,Middle,M,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicaid,SINGLE,PORTUGUESE,Diseases of blood and circulatory system,Short,,
+Poisoning and Injury,Young,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Government,SINGLE,WHITE,Poisoning and Injury,Large,,
+Diseases of respiratory system,Young,M,EMERGENCY,HOME,Medicaid,SINGLE,WHITE,Diseases of blood and circulatory system,,,
+Poisoning and Injury,Young,F,URGENT,LONG TERM CARE HOSPITAL,Private,SINGLE,UNABLE TO OBTAIN,Poisoning and Injury,Large,,
+Diseases of respiratory system,Middle,M,EMERGENCY,HOME,Medicare,SINGLE,WHITE,Diseases of nervous system and Mental Disorder,Short,,
+Poisoning and Injury,Young,F,EMERGENCY,HOME,Medicare,SINGLE,WHITE,Diseases of respiratory system,Large,,
+Poisoning and Injury,Middle,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Private,DIVORCED,WHITE,Poisoning and Injury,,,
+Diseases of blood and circulatory system,Young,M,EMERGENCY,LONG TERM CARE HOSPITAL,Medicare,SINGLE,WHITE,"Endocrine, Metabolic, Immunity Disorder and Sepsis",Large,,
+Poisoning and Injury,Middle,M,EMERGENCY,HOME,Self Pay,SINGLE,WHITE,Diseases of nervous system and Mental Disorder,Midium,,
+Poisoning and Injury,Middle,F,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Medicaid,SINGLE,WHITE,Poisoning and Injury,Large,,
+Diseases of respiratory system,Middle,M,EMERGENCY,LONG TERM CARE HOSPITAL,Government,SINGLE,WHITE,Poisoning and Injury,Short,Yes,Yes
+Diseases of blood and circulatory system,Young,F,EMERGENCY,HOME,Medicaid,SINGLE,BLACK/AFRICAN AMERICAN,Diseases of blood and circulatory system,,,
+"Endocrine, Metabolic, Immunity Disorder and Sepsis",Middle,F,EMERGENCY,HOME HEALTH CARE,Medicaid,DIVORCED,WHITE,Diseases of genitourinary system,Short,,
+Diseases of blood and circulatory system,Middle,F,EMERGENCY,LONG TERM CARE HOSPITAL,Private,MARRIED,WHITE,Diseases of blood and circulatory system,Large,,
+Poisoning and Injury,Middle,M,EMERGENCY,LONG TERM CARE HOSPITAL,Medicaid,SINGLE,OTHER,Diseases of digestive system,Short,,
+Diseases of blood and circulatory system,Middle,M,EMERGENCY,HOME,Private,SINGLE,OTHER,Poisoning and Injury,Midium,,
+Poisoning and Injury,Young,F,EMERGENCY,HOME,Medicaid,NULL,UNKNOWN/NOT SPECIFIED,Diseases of nervous system and Mental Disorder,,,
+"Endocrine, Metabolic, Immunity Disorder and Sepsis",Middle,F,EMERGENCY,HOME,Private,MARRIED,WHITE,Poisoning and Injury,,,
+Diseases of respiratory system,Young,M,EMERGENCY,DISCH-TRAN TO PSYCH HOSP,Private,MARRIED,WHITE,Poisoning and Injury,Large,,
+Diseases of nervous system and Mental Disorder,Young,M,EMERGENCY,OTHER FACILITY,Medicaid,SINGLE,WHITE,Diseases of nervous system and Mental Disorder,Short,,No
+Diseases of blood and circulatory system,Senior,M,EMERGENCY,HOME,Medicare,MARRIED,WHITE,Diseases of blood and circulatory system,,,No
