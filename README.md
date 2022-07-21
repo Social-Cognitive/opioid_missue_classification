@@ -248,7 +248,9 @@ print("Training sensitivity:", train_sensitivity)
 print("Testing sensitivity:", test_sensitivity)
 print("Training specificity:", train_specificity)
 print("Testing specificity:", test_specificity)
-
+```
+![](Structured%20Data%20Classification/Images/AdaBoost%20Performance.png)
+```python
 #Clearing the lists so that we can keep performance values for the next classifier
 train_accuracy.clear()
 test_accuracy.clear()
@@ -302,7 +304,9 @@ print("Training sensitivity:", train_sensitivity)
 print("Testing sensitivity:", test_sensitivity)
 print("Training specificity:", train_specificity)
 print("Testing specificity:", test_specificity)
-
+```
+![](Structured%20Data%20Classification/Images/LogisticRegression%20performance.png)
+```python
 #Clearing the lists so that we can keep performance values for the next classifier
 train_accuracy.clear()
 test_accuracy.clear()
@@ -356,7 +360,9 @@ print("Training sensitivity:", train_sensitivity)
 print("Testing sensitivity:", test_sensitivity)
 print("Training specificity:", train_specificity)
 print("Testing specificity:", test_specificity)
-
+```
+![](Structured%20Data%20Classification/Images/Support%20Vector%20Classifier%20performance.png)
+```python
 #Clearing the lists so that we can keep performance values for the next classifier
 train_accuracy.clear()
 test_accuracy.clear()
@@ -410,7 +416,9 @@ print("Training sensitivity:", train_sensitivity)
 print("Testing sensitivity:", test_sensitivity)
 print("Training specificity:", train_specificity)
 print("Testing specificity:", test_specificity)
-
+```
+![](Structured%20Data%20Classification/Images/XGB%20performance.png)
+```python
 #Clearing the lists so that we can keep performance values for the next classifier
 train_accuracy.clear()
 test_accuracy.clear()
@@ -464,7 +472,9 @@ print("Training sensitivity:", train_sensitivity)
 print("Testing sensitivity:", test_sensitivity)
 print("Training specificity:", train_specificity)
 print("Testing specificity:", test_specificity)
-
+```
+![](Structured%20Data%20Classification/Images/Random%20Forest%20Classifier%20performance.png)
+```python
 #Clearing the lists so that we can keep performance values for the next classifier
 train_accuracy.clear()
 test_accuracy.clear()
