@@ -51,7 +51,7 @@ data = pd.read_csv("Drug_overdose_data.csv", encoding_errors='ignore')
 # Preview the first 5 lines of the loaded data 
 data.head()
 ```
-
+![](Structured%20Data%20Classification/Images/raw%20data%20head.png)
 ```python
 npy = data.to_numpy()
 data = data[['High level category(icd-9)','Age Category','gender','discharge_location','insurance','marital_status','ethnicity','High level category(diagnosis)','los_category','Mental_status','Intentional']]
