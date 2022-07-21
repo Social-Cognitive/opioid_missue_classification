@@ -60,7 +60,9 @@ data = data[['High level category(icd-9)','Age Category','gender','discharge_loc
 #Label encoding (Replacing strings with numeric values)
 ordinal_label = {k: i for i, k in enumerate(data['High level category(icd-9)'].unique(), 0)}
 ordinal_label
-
+```
+![](Structured%20Data%20Classification/Images/label%20encoding%20for%20High%20level%20category(icd-9).png)
+```python
 ordinal_label = {'Diseases of blood and circulatory system': 7,
  'Diseases of digestive system': 4,
  'Diseases of genitourinary system': 1,
