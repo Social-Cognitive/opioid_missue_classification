@@ -89,7 +89,9 @@ import numpy as np
 data = pd.read_csv("pre-processed_with_Nan.csv", encoding_errors='ignore')
 # Preview the first 5 lines of the loaded data 
 data.head()
-
+```
+![](Structured%20Data%20Classification/Images/label%20encoded%20data%20head.png)
+```python
 from sklearn.impute import KNNImputer
 
 #Imputing each of the missing values with the closest neighbors' values
@@ -125,9 +127,13 @@ f_values=pd.Series(f_p_values[0])
 f_values.index = x_train.columns
 
 p_values.sort_values(ascending=True)
-
+```
+![](Structured%20Data%20Classification/Images/p-values.png)
+```python
 f_values.sort_values(ascending=False)
 ```
+![](Structured%20Data%20Classification/Images/f-values.png)
+
 ### Dataset spliting into training and testing
 Spliting the whole dataset into training and testing datasets
 ```python
