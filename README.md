@@ -39,7 +39,7 @@ The required python libraries and packages are,
 - accuracy_score
 
 
-## Unstructured data classification
+## Structured data(tabular data) classification
 
 ### Label encoding
 Label encoding has been done to replace the textual data with numeric values 
@@ -488,3 +488,7 @@ test_sensitivity.clear()
 train_specificity.clear()
 test_specificity.clear()
 ```
+
+
+
+## Unstructured data classification
