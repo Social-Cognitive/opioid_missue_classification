@@ -135,7 +135,7 @@ f_values.sort_values(ascending=False)
 ```
 ![](Structured%20Data%20Classification/Images/f-values.png)
 
-### Dataset spliting into training and testing
+### Dataset spliting into training and testing (80:20)
 Spliting the whole dataset into training and testing datasets
 ```python
 import pandas as pd
