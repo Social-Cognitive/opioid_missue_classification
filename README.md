@@ -125,7 +125,8 @@ p_values.index = x_train.columns
 
 f_values=pd.Series(f_p_values[0])
 f_values.index = x_train.columns
-
+```
+```python
 p_values.sort_values(ascending=True)
 ```
 ![](Structured%20Data%20Classification/Images/p-values.png)
