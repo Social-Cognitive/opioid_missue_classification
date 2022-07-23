@@ -553,9 +553,9 @@ X_train_padded = pad_sequences(tokenized_word_list, maxlen = maxlen, padding='po
 from sklearn.model_selection import train_test_split
 X_train_final2, X_val, y_train_final2, y_val = train_test_split(X_train_padded, y, test_size = 0.2,random_state = 42)
 
-```pthon
-### LSTM based model implementation
 ```
+### LSTM based model implementation
+```pthon
 
 #basic lstm
 print('*'*50)
@@ -573,9 +573,9 @@ import plotting
 #plot_loss_and_acc(history)
 #performance(model1,X_train_final2, X_val, y_train_final2, y_val,'model_best.h5')
 
-```pthon
-### 1D CNN based model implementation
 ```
+### 1D CNN based model implementation
+```pthon
 #cnn
 print('*'*50)
 print('Training cnn based model')
@@ -591,9 +591,9 @@ history = model1.fit(X_train_final2, y_train_final2, epochs = 10, batch_size = b
 plot_loss_and_acc(history)
 performance(model1,X_train_final2, X_val, y_train_final2, y_val,'model_best_cnn.h5')
 
-```pthon
-### Attention based model implementation
 ```
+### Attention based model implementation
+```pthon
 #cnn
 print('*'*50)
 print('Training attention based model')
