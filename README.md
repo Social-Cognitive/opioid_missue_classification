@@ -555,7 +555,7 @@ X_train_final2, X_val, y_train_final2, y_val = train_test_split(X_train_padded, 
 
 ```
 ### LSTM based model implementation
-```pthon
+```python
 
 #basic lstm
 print('*'*50)
@@ -575,7 +575,7 @@ import plotting
 
 ```
 ### 1D CNN based model implementation
-```pthon
+```python
 #cnn
 print('*'*50)
 print('Training cnn based model')
@@ -593,7 +593,7 @@ performance(model1,X_train_final2, X_val, y_train_final2, y_val,'model_best_cnn.
 
 ```
 ### Attention based model implementation
-```pthon
+```python
 #cnn
 print('*'*50)
 print('Training attention based model')
