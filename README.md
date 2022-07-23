@@ -608,7 +608,10 @@ history = model1.fit(X_train_final2, y_train_final2, epochs = 10, batch_size = b
 
 #plot_loss_and_acc(history)
 #performance(model1,X_train_final2, X_val, y_train_final2, y_val,'model_best_attention.h5')
+```
 
+### Traditional classifier based model implementation
+```python
 # models
 # models
 from sklearn.linear_model import LinearRegression, LogisticRegression, Perceptron, RidgeClassifier
