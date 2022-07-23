@@ -208,9 +208,9 @@ test_sensitivity = []
 
 train_specificity = []
 test_specificity = []
-
-"""#AdaBoostClassifier Implementation"""
-
+```
+AdaBoostClassifier Implementation
+```python
 ###############AdaBoostClassifier#################
 adaboost_classifier.fit(x_train, y_train)#machine k train korlam
 train_pred = adaboost_classifier.predict(x_train)
@@ -265,7 +265,9 @@ test_sensitivity.clear()
 train_specificity.clear()
 test_specificity.clear()
 
-"""#LogisticRegressionClassifier"""
+```
+LogisticRegressionClassifier Implementation
+```python
 
 ###############LogisticRegression#################
 logistic_regression.fit(x_train, y_train)#machine k train korlam
@@ -321,7 +323,9 @@ test_sensitivity.clear()
 train_specificity.clear()
 test_specificity.clear()
 
-"""#SupportVectorClassifier"""
+```
+SupportVectorClassifier Implementation
+```python
 
 ###############SupportVectorClassifier#################
 svc.fit(x_train, y_train)#machine k train korlam
@@ -377,7 +381,9 @@ test_sensitivity.clear()
 train_specificity.clear()
 test_specificity.clear()
 
-"""#XGB Classifier"""
+```
+XGB Classifier Implementation
+```python
 
 ###############xgb_classifier#################
 xgb_classifier.fit(x_train, y_train)#machine k train korlam
@@ -433,7 +439,9 @@ test_sensitivity.clear()
 train_specificity.clear()
 test_specificity.clear()
 
-"""#Random Forest Classifier"""
+```
+Random Forest Classifier Implementation
+```python
 
 ###############random_forest_classifier#################
 random_forest_classifier.fit(x_train, y_train)#machine k train korlam
