@@ -509,7 +509,7 @@ test_specificity.clear()
 
 ## Unstructured data classification
 
-###Classification models
+### Classification models
 ```python
 import pandas as pd
 import numpy as np
@@ -755,7 +755,7 @@ def tsne_plot(for_word, w2v_model):
 
     plt.title('t-SNE visualization for word "{}'.format(for_word.title()) +'"')
 ```
-Contexts
+### Contexts
 ```python
 SEED = 123456
 import os
