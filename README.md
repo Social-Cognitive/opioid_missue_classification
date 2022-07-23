@@ -209,7 +209,7 @@ test_sensitivity = []
 train_specificity = []
 test_specificity = []
 ```
-AdaBoostClassifier Implementation
+### AdaBoostClassifier Implementation
 ```python
 ###############AdaBoostClassifier#################
 adaboost_classifier.fit(x_train, y_train)#machine k train korlam
@@ -266,7 +266,7 @@ train_specificity.clear()
 test_specificity.clear()
 
 ```
-LogisticRegressionClassifier Implementation
+### LogisticRegressionClassifier Implementation
 ```python
 
 ###############LogisticRegression#################
@@ -324,7 +324,7 @@ train_specificity.clear()
 test_specificity.clear()
 
 ```
-SupportVectorClassifier Implementation
+### SupportVectorClassifier Implementation
 ```python
 
 ###############SupportVectorClassifier#################
@@ -382,7 +382,7 @@ train_specificity.clear()
 test_specificity.clear()
 
 ```
-XGB Classifier Implementation
+### XGB Classifier Implementation
 ```python
 
 ###############xgb_classifier#################
@@ -440,7 +440,7 @@ train_specificity.clear()
 test_specificity.clear()
 
 ```
-Random Forest Classifier Implementation
+### Random Forest Classifier Implementation
 ```python
 
 ###############random_forest_classifier#################
@@ -500,4 +500,4 @@ test_specificity.clear()
 
 
 
-## Unstructured data classification
+### Unstructured data classification
