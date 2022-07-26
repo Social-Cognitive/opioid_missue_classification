@@ -978,8 +978,9 @@ from plotting import *
 import plotting
 #plot_loss_and_acc(history)
 #performance(model1,X_train_final2, X_val, y_train_final2, y_val,'model_best.h5')
-
 ```
+![](Unstructured%20Data%20Classification%20and%20Realtion%20Findings/Images/LSTM%20performance.png)
+
 ### 1D CNN based model implementation
 ```python
 #cnn
